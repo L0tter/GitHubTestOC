@@ -6,7 +6,7 @@ Alors, que contient ce projet oh combien élaboré ?
 
 -Un fichier readme #CaptainObvious_au_rapport
 -Un document html contenant de l'html 
--Une image, appelée par l'html
+-Des images,  appelées par l'html, ainsi qu'une police d'écriture.
 -Un css
 
 Le tout formant un projet réalisé dans le cadre d'un autre cours.
